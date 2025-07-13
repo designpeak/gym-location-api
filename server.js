@@ -1,6 +1,6 @@
 const express = require('express');
 const axios = require('axios');
-const gyms = require('./gyms.json'); // tvoj JSON fajl sa teretanama
+const gyms = require('./gyms.json');
 
 const app = express();
 
@@ -90,7 +90,6 @@ const marked = require('marked');
 app.get('/', (req, res) => {
     const htmlContent = marked.parse(readme);
 
-    // Opcionalno, možeš poslati HTML u jednostavnom šablonu
     res.send(`
       <!DOCTYPE html>
       <html lang="sr">
