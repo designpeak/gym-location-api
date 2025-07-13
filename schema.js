@@ -50,7 +50,7 @@ const RootQuery = new GraphQLObjectType({
     najblizaTeretanaPoAdresi: {
       type: TeretanaType,
       args: {
-        address: { type: GraphQLString }
+        adresa: { type: GraphQLString }
       },
       async resolve(_, { address }) {
         const geoRes = await axios.get('https://nominatim.openstreetmap.org/search', {
