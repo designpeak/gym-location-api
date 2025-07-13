@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "naziv": "Titan Gym 87",
+    "lat": 44.802478,
+    "lng": 20.4893,
+    "adresa": "Ulica 1, Beograd"
+  },
+  {
+    "id": 2,
+    "naziv": "MaxFitness 13",
+    "lat": 45.27492,
+    "lng": 19.90235,
+    "adresa": "Ulica 2, Novi Sad"
+  },
+  {
+    "id": 3,
+    "naziv": "BodyTech 34",
+    "lat": 43.308941,
+    "lng": 21.899504,
+    "adresa": "Ulica 3, Niš"
+  },
+  {
+    "id": 4,
+    "naziv": "AlphaFit 9",
+    "lat": 43.866548,
+    "lng": 18.430927,
+    "adresa": "Ulica 4, Sarajevo"
+  },
+  {
+    "id": 5,
+    "naziv": "ArenaFit 28",
+    "lat": 45.835897,
+    "lng": 15.949274,
+    "adresa": "Ulica 5, Zagreb"
+  },
+  {
+    "id": 6,
+    "naziv": "Barbell Club 71",
+    "lat": 42.019213,
+    "lng": 21.428683,
+    "adresa": "Ulica 6, Skopje"
+  },
+  {
+    "id": 7,
+    "naziv": "FitZone 65",
+    "lat": 42.419352,
+    "lng": 19.278305,
+    "adresa": "Ulica 7, Podgorica"
+  },
+  {
+    "id": 8,
+    "naziv": "Iron Gym 45",
+    "lat": 44.761438,
+    "lng": 17.202879,
+    "adresa": "Ulica 8, Banja Luka"
+  },
+  {
+    "id": 9,
+    "naziv": "StrongCore 53",
+    "lat": 44.783219,
+    "lng": 20.403841,
+    "adresa": "Ulica 9, Beograd"
+  },
+  {
+    "id": 10,
+    "naziv": "PowerHouse 38",
+    "lat": 45.243189,
+    "lng": 19.818623,
+    "adresa": "Ulica 10, Novi Sad"
+  }
+]
