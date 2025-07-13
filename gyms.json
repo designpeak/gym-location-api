@@ -1,72 +1,1311 @@
 [
   {
     "id": 1,
-    "naziv": "Titan Gym 87",
-    "lat": 44.802478,
-    "lng": 20.4893,
-    "adresa": "Ulica 1, Beograd"
+    "naziv": "Mega Gym Central",
+    "lat": 44.8210844,
+    "lng": 20.4864223,
+    "adresa": "Viline vode 47, Beograd 11000, Serbia"
   },
   {
     "id": 2,
-    "naziv": "MaxFitness 13",
-    "lat": 45.27492,
-    "lng": 19.90235,
-    "adresa": "Ulica 2, Novi Sad"
+    "naziv": "X Gym",
+    "lat": 44.79780969999999,
+    "lng": 20.4882386,
+    "adresa": "Golubačka 5, Beograd 11000, Serbia"
   },
   {
     "id": 3,
-    "naziv": "BodyTech 34",
-    "lat": 43.308941,
-    "lng": 21.899504,
-    "adresa": "Ulica 3, Niš"
+    "naziv": "Extreme Gym",
+    "lat": 44.8199724,
+    "lng": 20.4711102,
+    "adresa": "Venizelosova 21, Beograd 110000, Serbia"
   },
   {
     "id": 4,
-    "naziv": "AlphaFit 9",
-    "lat": 43.866548,
-    "lng": 18.430927,
-    "adresa": "Ulica 4, Sarajevo"
+    "naziv": "Imperator Gym",
+    "lat": 44.7874253,
+    "lng": 20.5143618,
+    "adresa": "Živka Davidovića 72a, Beograd, Serbia"
   },
   {
     "id": 5,
-    "naziv": "ArenaFit 28",
-    "lat": 45.835897,
-    "lng": 15.949274,
-    "adresa": "Ulica 5, Zagreb"
+    "naziv": "Street gym",
+    "lat": 44.8101522,
+    "lng": 20.4708691,
+    "adresa": "Belgrade, Serbia"
   },
   {
     "id": 6,
-    "naziv": "Barbell Club 71",
-    "lat": 42.019213,
-    "lng": 21.428683,
-    "adresa": "Ulica 6, Skopje"
+    "naziv": "Non Stop Fitness",
+    "lat": 44.8429857,
+    "lng": 20.4124538,
+    "adresa": "Glavna 7, Beograd 11000, Serbia"
   },
   {
     "id": 7,
-    "naziv": "FitZone 65",
-    "lat": 42.419352,
-    "lng": 19.278305,
-    "adresa": "Ulica 7, Podgorica"
+    "naziv": "Fitness Studio Feel Life",
+    "lat": 44.7609382,
+    "lng": 20.4541356,
+    "adresa": "Slavka Ćuruvije 07, Beograd, Serbia"
   },
   {
     "id": 8,
-    "naziv": "Iron Gym 45",
-    "lat": 44.761438,
-    "lng": 17.202879,
-    "adresa": "Ulica 8, Banja Luka"
+    "naziv": "Iron Republic Novi Beograd 00-24",
+    "lat": 44.8008382,
+    "lng": 20.3840882,
+    "adresa": "Nehruova 51, Beograd 11070, Serbia"
   },
   {
     "id": 9,
-    "naziv": "StrongCore 53",
-    "lat": 44.783219,
-    "lng": 20.403841,
-    "adresa": "Ulica 9, Beograd"
+    "naziv": "CFL GYM",
+    "lat": 44.7880386,
+    "lng": 20.4869769,
+    "adresa": "Mijačka 5, Beograd, Serbia"
   },
   {
     "id": 10,
-    "naziv": "PowerHouse 38",
-    "lat": 45.243189,
-    "lng": 19.818623,
-    "adresa": "Ulica 10, Novi Sad"
+    "naziv": "Mega Gym",
+    "lat": 44.8002928,
+    "lng": 20.4023565,
+    "adresa": "Omladinskih brigada 65a, Beograd 11070, Serbia"
+  },
+  {
+    "id": 11,
+    "naziv": "Garden Gym",
+    "lat": 44.7906457,
+    "lng": 20.501073,
+    "adresa": "Križanićeva 20, Beograd, Serbia"
+  },
+  {
+    "id": 12,
+    "naziv": "Teretana Factory Gym - Beograd",
+    "lat": 44.7504796,
+    "lng": 20.4331079,
+    "adresa": "Kneza Višeslava 120, Beograd 11030, Serbia"
+  },
+  {
+    "id": 13,
+    "naziv": "Fitnes Centar Play",
+    "lat": 44.7904552,
+    "lng": 20.5012063,
+    "adresa": "RS, 11000, Križanićeva 22, Beograd, Serbia"
+  },
+  {
+    "id": 14,
+    "naziv": "Planet Gym & Fitness",
+    "lat": 44.81777659999999,
+    "lng": 20.509615,
+    "adresa": "Visnjička b.b., Beograd 11000, Serbia"
+  },
+  {
+    "id": 15,
+    "naziv": "Non Stop fitness",
+    "lat": 44.8012032,
+    "lng": 20.45199,
+    "adresa": "Sarajevska 66, Beograd 111207, Serbia"
+  },
+  {
+    "id": 16,
+    "naziv": "Unisex Gym",
+    "lat": 44.8016707,
+    "lng": 20.4859805,
+    "adresa": "Marka Oreškovića 3, Beograd 11120, Serbia"
+  },
+  {
+    "id": 17,
+    "naziv": "Teretana Absolute Fitness Centar",
+    "lat": 44.7994202,
+    "lng": 20.4873857,
+    "adresa": "Gajeva 9, Beograd 11050, Serbia"
+  },
+  {
+    "id": 18,
+    "naziv": "Women's Gym Her Gym",
+    "lat": 44.8094664,
+    "lng": 20.3990119,
+    "adresa": "Omladinskih brigada 96, Beograd 11070, Serbia"
+  },
+  {
+    "id": 19,
+    "naziv": "Fit In",
+    "lat": 44.8146261,
+    "lng": 20.4180458,
+    "adresa": "Bulevar Arsenija Čarnojevica 76, Beograd 11000, Serbia"
+  },
+  {
+    "id": 20,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.8044053,
+    "lng": 20.4858178,
+    "adresa": "Dimitrija Tucovića 32, Beograd 11120, Serbia"
+  },
+  {
+    "id": 21,
+    "naziv": "Fitness",
+    "lat": 44.82126220000001,
+    "lng": 20.4386322,
+    "adresa": "RCCQ+GF, Beograd, Serbia"
+  },
+  {
+    "id": 22,
+    "naziv": "Profit gym Belgrade",
+    "lat": 44.7901211,
+    "lng": 20.4780681,
+    "adresa": "Rade Končara 16, Beograd 11000, Serbia"
+  },
+  {
+    "id": 23,
+    "naziv": "Perfect line gym & fitness",
+    "lat": 44.8140781,
+    "lng": 20.518968,
+    "adresa": "Husinskih rudara 7b, Beograd, Serbia"
+  },
+  {
+    "id": 24,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.7927048,
+    "lng": 20.467102,
+    "adresa": "Rudnička 1, Beograd 11000, Serbia"
+  },
+  {
+    "id": 25,
+    "naziv": "Alexandros Arena",
+    "lat": 44.8114113,
+    "lng": 20.4210358,
+    "adresa": "Bulevar Arsenija Čarnojevića 69v, Beograd, Serbia"
+  },
+  {
+    "id": 26,
+    "naziv": "AHILEJ GYM PREMIUM SAVA CENTAR",
+    "lat": 44.8081726,
+    "lng": 20.4330787,
+    "adresa": "Sava Centar, ul. Vladimira Popovića 8a, Prizemlje Objekta B, Beograd 11070, Serbia"
+  },
+  {
+    "id": 27,
+    "naziv": "Iron Republic Centar",
+    "lat": 44.8169555,
+    "lng": 20.476448,
+    "adresa": "Bulevar despota Stefana 68c, Beograd, Serbia"
+  },
+  {
+    "id": 28,
+    "naziv": "D&D Fitnes Centar",
+    "lat": 44.8322933,
+    "lng": 20.4153528,
+    "adresa": "Gramšijeva 5, Beograd, Serbia"
+  },
+  {
+    "id": 29,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.7859346,
+    "lng": 20.5143224,
+    "adresa": "Živka Davidovića 86, Beograd, Serbia"
+  },
+  {
+    "id": 30,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.8169603,
+    "lng": 20.5132587,
+    "adresa": "Višnjička 84, Beograd, Serbia"
+  },
+  {
+    "id": 31,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.782664,
+    "lng": 20.4220247,
+    "adresa": "Požeška 31, Beograd 11000, Serbia"
+  },
+  {
+    "id": 32,
+    "naziv": "Fitness Center Octagon",
+    "lat": 44.8615607,
+    "lng": 20.4736704,
+    "adresa": "RS, 11210, Azanjska 16a, Beograd, Serbia"
+  },
+  {
+    "id": 33,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.7779136,
+    "lng": 20.4732667,
+    "adresa": "Vojvode Stepe 120, Beograd, Serbia"
+  },
+  {
+    "id": 34,
+    "naziv": "Magic Wand Fitness",
+    "lat": 44.8225714,
+    "lng": 20.4632726,
+    "adresa": "Skenderbegova 39, Beograd 104806, Serbia"
+  },
+  {
+    "id": 35,
+    "naziv": "Open Air Gym Blok 22",
+    "lat": 44.8110022,
+    "lng": 20.4256419,
+    "adresa": "Bulevar Arsenija Čarnojevića 48, Beograd, Serbia"
+  },
+  {
+    "id": 36,
+    "naziv": "Ahilej Arena Premium",
+    "lat": 44.81482750000001,
+    "lng": 20.4219965,
+    "adresa": "Bulevar Zorana Đinđića 58, Beograd, Serbia"
+  },
+  {
+    "id": 37,
+    "naziv": "Fitness for Women New Belgrade",
+    "lat": 44.8093165,
+    "lng": 20.386818,
+    "adresa": "Gandijeva 47a, Beograd 11070, Serbia"
+  },
+  {
+    "id": 38,
+    "naziv": "Non Stop Fitness",
+    "lat": 44.7923879,
+    "lng": 20.4971696,
+    "adresa": "Vojislava Ilića 73, Beograd 11000, Serbia"
+  },
+  {
+    "id": 39,
+    "naziv": "Mia Body Space Novi Beograd",
+    "lat": 44.8057336,
+    "lng": 20.4238933,
+    "adresa": "Milutina Milankovića 1K, Beograd 11070, Serbia"
+  },
+  {
+    "id": 40,
+    "naziv": "Smart Fitnes Novi Beograd",
+    "lat": 44.8069083,
+    "lng": 20.399639,
+    "adresa": "Uroša Martinovića 14, Beograd 11070, Serbia"
+  },
+  {
+    "id": 41,
+    "naziv": "Teretana Evolution",
+    "lat": 44.7481383,
+    "lng": 20.4535049,
+    "adresa": "Borska 40, Beograd 180824, Serbia"
+  },
+  {
+    "id": 42,
+    "naziv": "Fitness Centar AS",
+    "lat": 44.7543632,
+    "lng": 20.4563993,
+    "adresa": "Borska 41, Beograd 11090, Serbia"
+  },
+  {
+    "id": 43,
+    "naziv": "XL Fitness Factory",
+    "lat": 44.816818,
+    "lng": 20.4801128,
+    "adresa": "RS, 11000, Osmana Đikića 1, Beograd, Serbia"
+  },
+  {
+    "id": 44,
+    "naziv": "Sinergija Fitness",
+    "lat": 44.7679942,
+    "lng": 20.460324,
+    "adresa": "Mihaila Avramovića 22, Beograd 11000, Serbia"
+  },
+  {
+    "id": 45,
+    "naziv": "Zumba Voždovac - Muscle Mecca fitnes centar",
+    "lat": 44.7590095,
+    "lng": 20.4860064,
+    "adresa": "Vojvode Stepe 389, Beograd 11000, Serbia"
+  },
+  {
+    "id": 46,
+    "naziv": "Fitness Center Positivo",
+    "lat": 44.76649339999999,
+    "lng": 20.4572742,
+    "adresa": "Miloja Đaka 18, Beograd 11000, Serbia"
+  },
+  {
+    "id": 47,
+    "naziv": "Absolute Gym Teretana Voždovac",
+    "lat": 44.7712175,
+    "lng": 20.4770666,
+    "adresa": "Bose Milićević 4, Beograd 11010, Serbia"
+  },
+  {
+    "id": 48,
+    "naziv": "ULTIMA GYM",
+    "lat": 44.7467374,
+    "lng": 20.4477823,
+    "adresa": "Borska 4, Beograd 11090, Serbia"
+  },
+  {
+    "id": 49,
+    "naziv": "Athletic's Gym - Voždovac",
+    "lat": 44.7610714,
+    "lng": 20.4853512,
+    "adresa": "Vojvode Stepe 363, Beograd 11000, Serbia"
+  },
+  {
+    "id": 50,
+    "naziv": "HC Fitness",
+    "lat": 44.7755663,
+    "lng": 20.4897499,
+    "adresa": "Zaplanjska 32, Beograd, Serbia"
+  },
+  {
+    "id": 51,
+    "naziv": "Brother Gym",
+    "lat": 44.749373,
+    "lng": 20.4603296,
+    "adresa": "Vukasovićeva 63, Beograd, Serbia"
+  },
+  {
+    "id": 52,
+    "naziv": "Human Performance Gym",
+    "lat": 44.7651192,
+    "lng": 20.5179332,
+    "adresa": "Srđana Kneževića 117, Beograd, Serbia"
+  },
+  {
+    "id": 53,
+    "naziv": "H2O Health & Fitness Club",
+    "lat": 44.749289,
+    "lng": 20.430564,
+    "adresa": "Илије Стојадиновића 63, локал 1, Beograd 11030, Serbia"
+  },
+  {
+    "id": 55,
+    "naziv": "SN Fitnes Centar",
+    "lat": 44.7493554,
+    "lng": 20.4302209,
+    "adresa": "Ilije Stojadinovica 61, Beograd, Serbia"
+  },
+  {
+    "id": 56,
+    "naziv": "Ahilej Vozdovac",
+    "lat": 44.7734648,
+    "lng": 20.4769978,
+    "adresa": "Vojvode Stepe 207, Beograd, Serbia"
+  },
+  {
+    "id": 57,
+    "naziv": "Top Gym",
+    "lat": 44.76461949999999,
+    "lng": 20.516889,
+    "adresa": "Srđana Kneževića 117, Beograd 11000, Serbia"
+  },
+  {
+    "id": 58,
+    "naziv": "Ahilej Rakovica",
+    "lat": 44.7442761,
+    "lng": 20.4394475,
+    "adresa": "Kraljice Jelene 4, Beograd, Serbia"
+  },
+  {
+    "id": 59,
+    "naziv": "Fitnes Centar i Teretana Perfect Line Gold",
+    "lat": 44.8078487,
+    "lng": 20.4833687,
+    "adresa": "Stjepana Ljubiše 6, Beograd 11000, Serbia"
+  },
+  {
+    "id": 60,
+    "naziv": "Full Fitness Center - Rakovica",
+    "lat": 44.7456572,
+    "lng": 20.4358139,
+    "adresa": "Pilota Mihaila Petrovića 6, Beograd 180657, Serbia"
+  },
+  {
+    "id": 61,
+    "naziv": "Aura Fitness Centar",
+    "lat": 43.3062145,
+    "lng": 21.9479366,
+    "adresa": "Bulevar Svetog cara Konstantina 4, prilaz br. 7, Niš 18000, Serbia"
+  },
+  {
+    "id": 62,
+    "naziv": "Gym Town",
+    "lat": 43.3136595,
+    "lng": 21.8880688,
+    "adresa": "Kraljevića Marka 23, Niš 18000, Serbia"
+  },
+  {
+    "id": 63,
+    "naziv": "Infinity Gym Nis",
+    "lat": 43.31827699999999,
+    "lng": 21.8781635,
+    "adresa": "Šumadijska 1, Niš 18000, Serbia"
+  },
+  {
+    "id": 64,
+    "naziv": "Gym Town 3",
+    "lat": 43.3089559,
+    "lng": 21.9113241,
+    "adresa": "Zetska 36b, Niš 18000, Serbia"
+  },
+  {
+    "id": 65,
+    "naziv": "Kangoo Fit dream gym",
+    "lat": 43.3193393,
+    "lng": 21.9092254,
+    "adresa": "Bulevar Dr Zorana Đinđića 17, Niš, Serbia"
+  },
+  {
+    "id": 66,
+    "naziv": "Akademik fitnes centar",
+    "lat": 43.3192426,
+    "lng": 21.9276371,
+    "adresa": "Đerdapska 21, Niš 18000, Serbia"
+  },
+  {
+    "id": 67,
+    "naziv": "Universum Fitness Centar",
+    "lat": 43.328241,
+    "lng": 21.9081947,
+    "adresa": "Pantelejska 52b, Niš 18000, Serbia"
+  },
+  {
+    "id": 68,
+    "naziv": "Gym Town 2",
+    "lat": 43.3221674,
+    "lng": 21.9061106,
+    "adresa": "Todora Milovanovića 14, Niš 18000, Serbia"
+  },
+  {
+    "id": 69,
+    "naziv": "Kangoo Fit Mega Gym",
+    "lat": 43.3220701,
+    "lng": 21.9330826,
+    "adresa": "Vizantijski bulevar, Niš 18000, Serbia"
+  },
+  {
+    "id": 70,
+    "naziv": "Teretana ''Sky Gym''",
+    "lat": 43.3338001,
+    "lng": 21.9383252,
+    "adresa": "Mirisnih Vrba 3, Niš, Serbia"
+  },
+  {
+    "id": 71,
+    "naziv": "Gold Fitness",
+    "lat": 43.3159497,
+    "lng": 21.8935321,
+    "adresa": "Stojana Novakovića 17a, Niš, Serbia"
+  },
+  {
+    "id": 72,
+    "naziv": "Baza Club",
+    "lat": 43.3201398,
+    "lng": 21.9033873,
+    "adresa": "Vožda Karađorđa 80, Niš 18000, Serbia"
+  },
+  {
+    "id": 73,
+    "naziv": "TNT Gym",
+    "lat": 43.33402820000001,
+    "lng": 21.9308628,
+    "adresa": "Zarko Zrenjanin 40, 18000, Niš 18000, Serbia"
+  },
+  {
+    "id": 74,
+    "naziv": "Perfect Line Gym And Fitness",
+    "lat": 43.3156893,
+    "lng": 21.8923674,
+    "adresa": "Jablanička 1a, Niš 18000, Serbia"
+  },
+  {
+    "id": 75,
+    "naziv": "One Wellness Gym Niš",
+    "lat": 43.317985,
+    "lng": 21.9196336,
+    "adresa": "Dvadesetprvi Maj 1, Niš 18000, Serbia"
+  },
+  {
+    "id": 76,
+    "naziv": "New Diversis fitnes centar",
+    "lat": 43.32243039999999,
+    "lng": 21.929444,
+    "adresa": "Patrisa Lumumbe, Niš, Serbia"
+  },
+  {
+    "id": 77,
+    "naziv": "Universum Premium",
+    "lat": 43.3236993,
+    "lng": 21.9255438,
+    "adresa": "Universum Premium, Vizantijski bulevar 1, Niš 18000, Serbia"
+  },
+  {
+    "id": 78,
+    "naziv": "Top Form Plus",
+    "lat": 43.3239024,
+    "lng": 21.9021886,
+    "adresa": "Sedmog Jula 25A, Niš 18000, Serbia"
+  },
+  {
+    "id": 79,
+    "naziv": "X GYM PRO",
+    "lat": 43.3307113,
+    "lng": 21.9477177,
+    "adresa": "Šimšira 2, Niš 18000, Serbia"
+  },
+  {
+    "id": 80,
+    "naziv": "Fitnes Klub Butterfly",
+    "lat": 43.3218142,
+    "lng": 21.9146677,
+    "adresa": "Bulevar Nemanjića 25, Niš, Serbia"
+  },
+  {
+    "id": 81,
+    "naziv": "Gold Construction Gym",
+    "lat": 43.32295149999999,
+    "lng": 21.8991259,
+    "adresa": "Lole Ribara 13, Niš, Serbia"
+  },
+  {
+    "id": 82,
+    "naziv": "Black GYM Trosarina",
+    "lat": 43.308711,
+    "lng": 21.9287539,
+    "adresa": "Marina Drzica 36, Niš, Serbia"
+  },
+  {
+    "id": 83,
+    "naziv": "Best Gym",
+    "lat": 43.3339304,
+    "lng": 21.9366755,
+    "adresa": "Matejevački put 31, Niš, Serbia"
+  },
+  {
+    "id": 84,
+    "naziv": "Fitness Teretana Sportsko udruzenje Mic Gym",
+    "lat": 43.3423173,
+    "lng": 21.8699992,
+    "adresa": "Bulevar 12. februara 121a, Niš 18106, Serbia"
+  },
+  {
+    "id": 85,
+    "naziv": "Universum Classic",
+    "lat": 43.3163792,
+    "lng": 21.9225976,
+    "adresa": "Vranjanska 24, Niš 18000, Serbia"
+  },
+  {
+    "id": 86,
+    "naziv": "Fitness & Fight Centar Sensei",
+    "lat": 43.3136008,
+    "lng": 21.8931237,
+    "adresa": "Svetozara Miletića 10, Niš, Serbia"
+  },
+  {
+    "id": 87,
+    "naziv": "Лав",
+    "lat": 43.3370961,
+    "lng": 21.9180572,
+    "adresa": "Borislava Nikolića Serjože 4, Niš 18000, Serbia"
+  },
+  {
+    "id": 88,
+    "naziv": "Fitness Club 2M",
+    "lat": 43.320384,
+    "lng": 21.9161494,
+    "adresa": "Bulevar Nemanjića 46, Niš, Serbia"
+  },
+  {
+    "id": 89,
+    "naziv": "Underground Gym&Fitness",
+    "lat": 43.3141824,
+    "lng": 21.8955473,
+    "adresa": "Deligradska 2, Niš 18000, Serbia"
+  },
+  {
+    "id": 90,
+    "naziv": "Fitnes Centar \"Kolos\"",
+    "lat": 43.3169073,
+    "lng": 21.9285432,
+    "adresa": "Branka Miljkovića 9, Niš, Serbia"
+  },
+  {
+    "id": 91,
+    "naziv": "Health & Active Fitness Centar",
+    "lat": 43.3148658,
+    "lng": 21.8999522,
+    "adresa": "Tome Rosandića 4, Niš 18000, Serbia"
+  },
+  {
+    "id": 92,
+    "naziv": "Samson Gym",
+    "lat": 43.316216,
+    "lng": 21.89748,
+    "adresa": "Janka Veselinovića 15, Niš, Serbia"
+  },
+  {
+    "id": 93,
+    "naziv": "My Gym Ženski Fitness (Power Plate)",
+    "lat": 43.3223759,
+    "lng": 21.9291622,
+    "adresa": "Dimitrija Dragovića 68, Niš 18000, Serbia"
+  },
+  {
+    "id": 94,
+    "naziv": "Mixi Fit Studio",
+    "lat": 43.3189809,
+    "lng": 21.8901952,
+    "adresa": "Trg Kralja Aleksandra Ujedinitelja 4, Niš, Serbia"
+  },
+  {
+    "id": 95,
+    "naziv": "Bodyline",
+    "lat": 43.32184789999999,
+    "lng": 21.9152905,
+    "adresa": "Bulevar Nemanjića 25, Niš, Serbia"
+  },
+  {
+    "id": 96,
+    "naziv": "Top Gs street workoutovi",
+    "lat": 43.3321461,
+    "lng": 21.8946657,
+    "adresa": "Restoran Indeks, Bulevar Nikole Tesle, Niš, Serbia"
+  },
+  {
+    "id": 97,
+    "naziv": "SoundFit",
+    "lat": 43.3138835,
+    "lng": 21.9116222,
+    "adresa": "Ljube Nenadovića 6, Niš, Serbia"
+  },
+  {
+    "id": 98,
+    "naziv": "Rock Gym",
+    "lat": 43.3295395,
+    "lng": 21.9386861,
+    "adresa": "Zorana Radosavljevića Čupe br.1, Niš, Serbia"
+  },
+  {
+    "id": 99,
+    "naziv": "Fitnes Revolucija",
+    "lat": 43.3131732,
+    "lng": 21.9072964,
+    "adresa": "9. brigade 2, Niš 018000, Serbia"
+  },
+  {
+    "id": 100,
+    "naziv": "Lacrima Fitness Zona",
+    "lat": 43.3181972,
+    "lng": 21.905709,
+    "adresa": "Dušanova 124, Niš 18000, Serbia"
+  },
+  {
+    "id": 101,
+    "naziv": "Iron Gym",
+    "lat": 43.1894569,
+    "lng": 21.7067383,
+    "adresa": "Strahinjića Bana 5, Žitorađa 18412, Serbia"
+  },
+  {
+    "id": 103,
+    "naziv": "RAW Centar za Trening i Zdravlje",
+    "lat": 43.3136125,
+    "lng": 21.8974117,
+    "adresa": "Episkopska 34, B, Niš 18000, Serbia"
+  },
+  {
+    "id": 104,
+    "naziv": "Шипкице (Šipkice)",
+    "lat": 43.3174238,
+    "lng": 21.9249505,
+    "adresa": "Bulevar Nemanjića 85, Niš, Serbia"
+  },
+  {
+    "id": 105,
+    "naziv": "Fitnes klub Butterfly",
+    "lat": 43.3192761,
+    "lng": 21.924099,
+    "adresa": "Romanijska 17, Niš 18000, Serbia"
+  },
+  {
+    "id": 106,
+    "naziv": "Top Form Gym & Supplement Shop",
+    "lat": 43.3227515,
+    "lng": 21.9018931,
+    "adresa": "Kralja Stefana Prvovenčanog 14, Niš 18000, Serbia"
+  },
+  {
+    "id": 107,
+    "naziv": "THINK Innovative Hub",
+    "lat": 43.3061914,
+    "lng": 21.947931,
+    "adresa": "Bulevar Svetog cara Konstantina 4, prilaz br. 7, Niš 18000, Serbia"
+  },
+  {
+    "id": 108,
+    "naziv": "Joga Studio Niš 'Flow'",
+    "lat": 43.31974049999999,
+    "lng": 21.9102701,
+    "adresa": "Dragiše Cvetkovića 21, Niš 18000, Serbia"
+  },
+  {
+    "id": 109,
+    "naziv": "Naisus",
+    "lat": 43.310118,
+    "lng": 21.9710525,
+    "adresa": "Jastrebačka, Niš Brzi Brod, Serbia"
+  },
+  {
+    "id": 110,
+    "naziv": "Шуки теретана",
+    "lat": 43.3328761,
+    "lng": 21.9223962,
+    "adresa": "Studenička 27, Niš, Serbia"
+  },
+  {
+    "id": 111,
+    "naziv": "Reformer Pilates SILHOUETTE",
+    "lat": 43.32438810000001,
+    "lng": 21.9136546,
+    "adresa": "Planet Residence, Niš 18000, Serbia"
+  },
+  {
+    "id": 112,
+    "naziv": "Teretana Indeks",
+    "lat": 43.3320458,
+    "lng": 21.8936694,
+    "adresa": "Niš, Serbia"
+  },
+  {
+    "id": 113,
+    "naziv": "Training center Živković",
+    "lat": 43.3104544,
+    "lng": 21.8991519,
+    "adresa": "Barska bb, Niš 18000, Serbia"
+  },
+  {
+    "id": 114,
+    "naziv": "Smart4Fit",
+    "lat": 43.3188719,
+    "lng": 21.9214569,
+    "adresa": "TC Zona 1, Bulevar Nemanjića 67a, Niš 700582, Serbia"
+  },
+  {
+    "id": 115,
+    "naziv": "FitLab",
+    "lat": 43.3190002,
+    "lng": 21.8922843,
+    "adresa": "Nikole Pašića 46, Niš 18000, Serbia"
+  },
+  {
+    "id": 116,
+    "naziv": "City Gym Nis",
+    "lat": 43.3135252,
+    "lng": 21.9285658,
+    "adresa": "2. srpskog ustanka, Niš, Serbia"
+  },
+  {
+    "id": 117,
+    "naziv": "Конзулат",
+    "lat": 43.3174894,
+    "lng": 21.8996891,
+    "adresa": "Dušanova 58/601, Niš 18000, Serbia"
+  },
+  {
+    "id": 118,
+    "naziv": "TM Studio",
+    "lat": 43.3360579,
+    "lng": 21.924591,
+    "adresa": "Bulevar svetog Pantelejmona 91/2, Niš 18000, Serbia"
+  },
+  {
+    "id": 119,
+    "naziv": "Fitness Empire",
+    "lat": 43.3036956,
+    "lng": 21.9114349,
+    "adresa": "Mokranjčeva 88, Niš, Serbia"
+  },
+  {
+    "id": 120,
+    "naziv": "XBody Studio \"Restart\"",
+    "lat": 43.31765009999999,
+    "lng": 21.9239972,
+    "adresa": "Bulevar Nemanjića 85a, TC \"Zona 2\", Lokal 18/1, Niš 18108, Serbia"
+  },
+  {
+    "id": 121,
+    "naziv": "Šmek Fitness",
+    "lat": 45.2597961,
+    "lng": 19.8320503,
+    "adresa": "Bulevar oslobođenja 30b, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 122,
+    "naziv": "Mega Gym Novi Sad",
+    "lat": 45.27144999999999,
+    "lng": 19.8411388,
+    "adresa": "Temerinska 95, Novi Sad, Serbia"
+  },
+  {
+    "id": 123,
+    "naziv": "GLADIATOR XXL GYM",
+    "lat": 45.2489199,
+    "lng": 19.8372122,
+    "adresa": "Danila Kiša 7, Novi Sad, Serbia"
+  },
+  {
+    "id": 124,
+    "naziv": "Snagatorijum Detelinara",
+    "lat": 45.2596902,
+    "lng": 19.818561,
+    "adresa": "Dr Đorđa Joanovića 7, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 125,
+    "naziv": "Flex fitness center",
+    "lat": 45.2484194,
+    "lng": 19.8443609,
+    "adresa": "Sutjeska 2, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 126,
+    "naziv": "No Limit Gym",
+    "lat": 45.25391,
+    "lng": 19.8166904,
+    "adresa": "Branka Bajića 11, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 127,
+    "naziv": "GYM & GYM",
+    "lat": 45.257165,
+    "lng": 19.8359771,
+    "adresa": "17 SLOVAČKA, 21000, Novi Sad, Južno-bački okrug Novi Sad RS, 21000, Serbia"
+  },
+  {
+    "id": 128,
+    "naziv": "Synergy Trening Centar 1",
+    "lat": 45.2601889,
+    "lng": 19.8095843,
+    "adresa": "Veselina Masleše 74, Novi Sad, Serbia"
+  },
+  {
+    "id": 129,
+    "naziv": "The Classic Gym",
+    "lat": 45.2471208,
+    "lng": 19.838741,
+    "adresa": "Lasla Gala 10, Novi Sad 409848, Serbia"
+  },
+  {
+    "id": 130,
+    "naziv": "Snagatorijum Liman",
+    "lat": 45.2382305,
+    "lng": 19.826712,
+    "adresa": "Atomsko slonište u kvartu, Ive Andrića 11-13, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 131,
+    "naziv": "Pro Fitness Center",
+    "lat": 45.2451095,
+    "lng": 19.8430423,
+    "adresa": "Bulevar oslobođenja 119, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 132,
+    "naziv": "No Limit Gym Liman",
+    "lat": 45.2395149,
+    "lng": 19.8377736,
+    "adresa": "Narodnog fronta 21c, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 133,
+    "naziv": "GEERYA Fitness Centar",
+    "lat": 45.2499737,
+    "lng": 19.8367017,
+    "adresa": "Trg Komenskog 6, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 134,
+    "naziv": "eXe Gym",
+    "lat": 45.2608994,
+    "lng": 19.8245509,
+    "adresa": "Pariske komune 24, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 135,
+    "naziv": "Maximus Fitness Centar",
+    "lat": 45.24814139999999,
+    "lng": 19.838582,
+    "adresa": "Braće Ribnikar 2, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 136,
+    "naziv": "Alpha Gym",
+    "lat": 45.2473572,
+    "lng": 19.8168619,
+    "adresa": "Polgar Andraša 14, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 137,
+    "naziv": "Studio Top Form",
+    "lat": 45.2499201,
+    "lng": 19.7952466,
+    "adresa": "33 Rumenačka, 21000, Bulevar Jovana Dučića 33, Novi Sad, Serbia"
+  },
+  {
+    "id": 138,
+    "naziv": "Fit Complete",
+    "lat": 45.2649096,
+    "lng": 19.8386538,
+    "adresa": "Jovana Cvijića 46, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 139,
+    "naziv": "Outdoor Fitness Park",
+    "lat": 45.2393896,
+    "lng": 19.8508224,
+    "adresa": "Sunčani kej, Novi Sad 403011, Serbia"
+  },
+  {
+    "id": 140,
+    "naziv": "X-Gym",
+    "lat": 45.254411,
+    "lng": 19.805449,
+    "adresa": "Todora Toze Jovanovića 8, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 141,
+    "naziv": "Snagatorijum Naselje",
+    "lat": 45.2505683,
+    "lng": 19.8000147,
+    "adresa": "Atomsko skloniste iza zgrade, Partizanskih baza 14, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 142,
+    "naziv": "Synergy Trening Centar 3",
+    "lat": 45.2392387,
+    "lng": 19.8349907,
+    "adresa": "Narodnog fronta 25b, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 143,
+    "naziv": "Muscle Gym Novi Sad",
+    "lat": 45.26108019999999,
+    "lng": 19.8417981,
+    "adresa": "Kisačka 5, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 144,
+    "naziv": "Fitnes Klub Liman",
+    "lat": 45.239984,
+    "lng": 19.8474814,
+    "adresa": "Fruškogorska 30, Novi Sad 403109, Serbia"
+  },
+  {
+    "id": 145,
+    "naziv": "E fitness center",
+    "lat": 45.2552794,
+    "lng": 19.8345062,
+    "adresa": "Novosadskog sajma 2, Novi Sad, Serbia"
+  },
+  {
+    "id": 146,
+    "naziv": "Sportski centar Rosić",
+    "lat": 45.2649096,
+    "lng": 19.8386538,
+    "adresa": "Jovana Cvijića 46, Novi Sad, Serbia"
+  },
+  {
+    "id": 147,
+    "naziv": "Koloseum Wellns Training & Spa Centar",
+    "lat": 45.2343644,
+    "lng": 19.8188533,
+    "adresa": "Моrnarska 30a, Novi Sad 404232, Serbia"
+  },
+  {
+    "id": 148,
+    "naziv": "Maximus Fitness Detelinara",
+    "lat": 45.2555452,
+    "lng": 19.8126746,
+    "adresa": "Veselina Masleše 26, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 149,
+    "naziv": "NS Fitness",
+    "lat": 45.2527768,
+    "lng": 19.8446761,
+    "adresa": "Trg Galerija 3, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 150,
+    "naziv": "Personalni treneri Novi Sad",
+    "lat": 45.2404469,
+    "lng": 19.817529,
+    "adresa": "Bulevar patrijarha Pavla, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 151,
+    "naziv": "Energym house",
+    "lat": 45.2824319,
+    "lng": 19.8429944,
+    "adresa": "Koče Vasiljevića, Novi Sad 405133, Serbia"
+  },
+  {
+    "id": 152,
+    "naziv": "Adrenalin Gym",
+    "lat": 45.2574828,
+    "lng": 19.8114133,
+    "adresa": "Veselina Masleše 38a, Novi Sad, Serbia"
+  },
+  {
+    "id": 153,
+    "naziv": "Hubitat Fitness",
+    "lat": 45.2518152,
+    "lng": 19.8363267,
+    "adresa": "Futoška 8, Novi Sad 21109, Serbia"
+  },
+  {
+    "id": 154,
+    "naziv": "Fitness Club Total Gym",
+    "lat": 45.24737510000001,
+    "lng": 19.8470455,
+    "adresa": "Sutjeska 2, Novi Sad 21101, Serbia"
+  },
+  {
+    "id": 156,
+    "naziv": "Synergy Trening Centar 2",
+    "lat": 45.2402336,
+    "lng": 19.8229673,
+    "adresa": "Bulevar Evrope 2, Novi Sad 406004, Serbia"
+  },
+  {
+    "id": 157,
+    "naziv": "Gladiator Gym",
+    "lat": 45.2417494,
+    "lng": 19.8285676,
+    "adresa": "Đorđa Servickog 16, Novi Sad, Serbia"
+  },
+  {
+    "id": 158,
+    "naziv": "South Force Fitness Studio",
+    "lat": 45.250231,
+    "lng": 19.8387312,
+    "adresa": "Laze Kostića 13, Novi Sad, Serbia"
+  },
+  {
+    "id": 159,
+    "naziv": "KOLOSEUM TRENING CENTAR",
+    "lat": 45.2481888,
+    "lng": 19.8038253,
+    "adresa": "Stevana Hristića 5, Novi Sad 21137, Serbia"
+  },
+  {
+    "id": 160,
+    "naziv": "Classic Gym Novi Sad",
+    "lat": 45.2555605,
+    "lng": 19.8148603,
+    "adresa": "Kopernikova 39, Novi Sad, Serbia"
+  },
+  {
+    "id": 161,
+    "naziv": "TRENING CENTAR LISICA",
+    "lat": 45.2640192,
+    "lng": 19.8308157,
+    "adresa": "Bulevar oslobođenja, Novi Sad, Serbia"
+  },
+  {
+    "id": 162,
+    "naziv": "Blue Loft",
+    "lat": 45.2596713,
+    "lng": 19.8314755,
+    "adresa": "Bulеvar oslobođenja 30b, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 163,
+    "naziv": "Podbara Gym",
+    "lat": 45.264292,
+    "lng": 19.84657,
+    "adresa": "Gundulićeva 15, Novi Sad 21101, Serbia"
+  },
+  {
+    "id": 164,
+    "naziv": "The One Fitness Centar",
+    "lat": 45.2536819,
+    "lng": 19.8423823,
+    "adresa": "Bulevar Mihajla Pupina 2, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 165,
+    "naziv": "Efitness Centar Perform",
+    "lat": 45.2502342,
+    "lng": 19.8387232,
+    "adresa": "Laze Kostića 14, Novi Sad, Serbia"
+  },
+  {
+    "id": 166,
+    "naziv": "Meltdown Gym",
+    "lat": 45.253999,
+    "lng": 19.837765,
+    "adresa": "Gajeva, Novi Sad, Serbia"
+  },
+  {
+    "id": 167,
+    "naziv": "Trening centar INVICTUS",
+    "lat": 45.2620736,
+    "lng": 19.830697,
+    "adresa": "Bulevar oslobođenja 4a, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 168,
+    "naziv": "Pendulum Gym",
+    "lat": 45.269273,
+    "lng": 19.8435995,
+    "adresa": "Temerinska 76, Novi Sad, Serbia"
+  },
+  {
+    "id": 169,
+    "naziv": "Circus Fitness",
+    "lat": 45.257783,
+    "lng": 19.8459582,
+    "adresa": "Grozde Gajšin 5, Novi Sad, Serbia"
+  },
+  {
+    "id": 170,
+    "naziv": "Ozzy Gym",
+    "lat": 45.2404167,
+    "lng": 19.8175674,
+    "adresa": "Bulevar patrijarha Pavla, Novi Sad 406036, Serbia"
+  },
+  {
+    "id": 171,
+    "naziv": "Classic Gym Bulevar",
+    "lat": 45.2539538,
+    "lng": 19.8363361,
+    "adresa": "Bulevar oslobođenja 83, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 172,
+    "naziv": "FitRoom Fitness",
+    "lat": 45.2602414,
+    "lng": 19.8390099,
+    "adresa": "Vojvode Šupljikca 20, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 173,
+    "naziv": "Fitness centar She",
+    "lat": 45.2425252,
+    "lng": 19.8466269,
+    "adresa": "Narodnog fronta 2, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 174,
+    "naziv": "Meltdown Gym One",
+    "lat": 45.256696,
+    "lng": 19.838621,
+    "adresa": "Stevana Sremca 16, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 175,
+    "naziv": "Lady's Gym grupni treninzi Novi Sad",
+    "lat": 45.2605514,
+    "lng": 19.8435269,
+    "adresa": "Trg Marije Trandafil 24, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 176,
+    "naziv": "Siler",
+    "lat": 45.2372109,
+    "lng": 19.8026128,
+    "adresa": "Stanoja Glavaša 114, Novi Sad, Serbia"
+  },
+  {
+    "id": 177,
+    "naziv": "Arbutina fitness",
+    "lat": 45.2573034,
+    "lng": 19.8418877,
+    "adresa": "Jovana Subotića 4, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 178,
+    "naziv": "Meltdowngym Zero",
+    "lat": 45.2564675,
+    "lng": 19.8310274,
+    "adresa": "Branimira Ćosića 21, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 179,
+    "naziv": "StretchWell Novi Sad",
+    "lat": 45.2491693,
+    "lng": 19.8518338,
+    "adresa": "Stevana Musića 20, Novi Sad, Serbia"
+  },
+  {
+    "id": 180,
+    "naziv": "Green Life",
+    "lat": 45.24043,
+    "lng": 19.8283462,
+    "adresa": "Bulevar cara Lazara 79, Novi Sad 21000, Serbia"
+  },
+  {
+    "id": 181,
+    "naziv": "Fitness Klub Monica Teretana",
+    "lat": 42.5552217,
+    "lng": 21.8941894,
+    "adresa": "Zmaj Jovina 14, Vranje 17501, Serbia"
+  },
+  {
+    "id": 182,
+    "naziv": "Sparta Gym",
+    "lat": 42.5558394,
+    "lng": 21.9001098,
+    "adresa": "Cara Dušana 28, Vranje 17501, Serbia"
+  },
+  {
+    "id": 183,
+    "naziv": "Vranje Sports Hall",
+    "lat": 42.5464339,
+    "lng": 21.9056154,
+    "adresa": "Vranje, Serbia"
+  },
+  {
+    "id": 184,
+    "naziv": "Fitness Centar Elemental",
+    "lat": 42.5511618,
+    "lng": 21.9146481,
+    "adresa": "Marička 12, Vranje 17000, Serbia"
+  },
+  {
+    "id": 185,
+    "naziv": "Fitness Centar Abc - Vranje",
+    "lat": 42.5538839,
+    "lng": 21.8964807,
+    "adresa": "Partizanska 10, Vranje 17500, Serbia"
+  },
+  {
+    "id": 186,
+    "naziv": "Heroj",
+    "lat": 42.5498468,
+    "lng": 21.8978373,
+    "adresa": "Kralja Stefana Prvovenčanog 172, Vranje, Serbia"
+  },
+  {
+    "id": 187,
+    "naziv": "Friends Fit",
+    "lat": 42.55077439999999,
+    "lng": 21.8987986,
+    "adresa": "Kralja Stefana Prvovenčanog 80, Vranje 17500, Serbia"
+  },
+  {
+    "id": 188,
+    "naziv": "Fitness Premium Abc",
+    "lat": 42.5535341,
+    "lng": 21.8966355,
+    "adresa": "Partizanska 10, Vranje 17500, Serbia"
+  },
+  {
+    "id": 189,
+    "naziv": "TM studio",
+    "lat": 42.5579677,
+    "lng": 21.900064,
+    "adresa": "Kralja Milana 20a, Vranje 17500, Serbia"
+  },
+  {
+    "id": 190,
+    "naziv": "Gold`s Gym",
+    "lat": 42.55943540000001,
+    "lng": 21.9075415,
+    "adresa": "Stevana Mokranca, Vranje, Serbia"
   }
 ]
