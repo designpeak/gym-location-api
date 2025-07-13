@@ -4,6 +4,46 @@ const gyms = require('./gyms.json'); // tvoj JSON fajl sa teretanama
 
 const app = express();
 
+const fs = require('fs');
+const path = require('path');
+const marked = require('marked');
+
+
+app.get('/', (req, res) => {
+  const readmePath = path.join(__dirname, 'README.md');
+  fs.readFile(readmePath, 'utf8', (err, data) => {
+    if (err) {
+      return res.status(500).send('Greška pri učitavanju README fajla');
+    }
+    const htmlContent = marked.parse(data);
+
+    // Opcionalno, možeš poslati HTML u jednostavnom šablonu
+    res.send(`
+      <!DOCTYPE html>
+      <html lang="sr">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>README</title>
+        <style>
+          body { max-width: 800px; margin: 40px auto; font-family: Arial, sans-serif; line-height: 1.6; padding: 0 20px; }
+          pre { background: #f4f4f4; padding: 10px; overflow-x: auto; }
+          code { font-family: monospace; background: #f4f4f4; padding: 2px 4px; }
+          h1,h2,h3,h4,h5,h6 { color: #333; }
+          a { color: #0366d6; text-decoration: none; }
+          a:hover { text-decoration: underline; }
+        </style>
+      </head>
+      <body>
+        ${htmlContent}
+      </body>
+      </html>
+    `);
+  });
+});
+
+
+
 function getDistance(lat1, lng1, lat2, lng2) {
   const toRad = deg => deg * Math.PI / 180;
   const R = 6371;
