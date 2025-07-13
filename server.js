@@ -30,10 +30,16 @@ app.get('/najblizaTeretana', (req, res) => {
     return currDist < prevDist ? curr : prev;
   });
 
+     const teretana = {
+      "naziv": closest.naziv,
+      "adresa": closest.adresa,
+      "daljina": closest.daljina
+    }
+
   const distance = getDistance(userLat, userLng, closest.lat, closest.lng);
   const daljina = distance > 1 ? `${distance.toFixed(2)} km` : `${(distance * 1000).toFixed(0)} m`;
 
-  res.json({ ...closest, daljina });
+  res.json({ ...teretana, daljina });
 });
 
 app.get('/najblizaTeretanaPoAdresi', async (req, res) => {
