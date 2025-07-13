@@ -52,9 +52,9 @@ const RootQuery = new GraphQLObjectType({
       args: {
         adresa: { type: GraphQLString }
       },
-      async resolve(_, { address }) {
+      async resolve(_, { adresa }) {
         const geoRes = await axios.get('https://nominatim.openstreetmap.org/search', {
-          params: { q: address, format: 'json', limit: 1 },
+          params: { q: adresa, format: 'json', limit: 1 },
           headers: { 'User-Agent': 'GymLocatorGraphQL/1.0' }
         });
 
