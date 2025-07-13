@@ -130,7 +130,7 @@ function getDistance(lat1, lng1, lat2, lng2) {
 app.get('/najblizaTeretana', (req, res) => {
   const { lat, lng } = req.query;
   if (!lat || !lng) {
-    return res.status(400).json({ error: 'lat and lng query parameters are required' });
+    return res.status(400).json({ error: 'lat i lng parametri su obavezni' });
   }
   const userLat = parseFloat(lat);
   const userLng = parseFloat(lng);
@@ -155,7 +155,7 @@ app.get('/najblizaTeretana', (req, res) => {
 
 app.get('/najblizaTeretanaPoAdresi', async (req, res) => {
   const { adresa } = req.query;
-  if (!adresa) return res.status(400).json({ error: 'adresa query parameter is required' });
+  if (!adresa) return res.status(400).json({ error: 'adresa parametar je obavezan' });
 
   try {
     const geoRes = await axios.get('https://nominatim.openstreetmap.org/search', {
@@ -163,7 +163,7 @@ app.get('/najblizaTeretanaPoAdresi', async (req, res) => {
       headers: { 'User-Agent': 'GymLocatorREST/1.0' }
     });
 
-    if (!geoRes.data.length) return res.status(404).json({ error: 'Adresa nije pronađena' });
+    if (!geoRes.data.length) return res.status(404).json({ error: 'Adresa nije pronađena, pokušajte preciznije' });
 
     const lat = parseFloat(geoRes.data[0].lat);
     const lng = parseFloat(geoRes.data[0].lon);
