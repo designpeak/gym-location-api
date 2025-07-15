@@ -185,7 +185,7 @@ app.get('/najblizaTeretanaPoAdresi', async (req, res) => {
 
     res.json({ ...teretana, daljina });
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    res.status(500).json({ error: error });
   }
 });
 
