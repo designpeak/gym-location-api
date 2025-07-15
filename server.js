@@ -141,7 +141,7 @@ app.get('/najblizaTeretana', (req, res) => {
     return currDist < prevDist ? curr : prev;
   });
 
-     const teretana = {
+    const teretana = {
       "naziv": closest.naziv,
       "adresa": closest.adresa,
       "daljina": closest.daljina
